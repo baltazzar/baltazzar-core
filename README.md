@@ -1,2 +1,2 @@
 # baltazzar-core
-Wordpress core system for many plugins
+WordPress core system for many plugins
