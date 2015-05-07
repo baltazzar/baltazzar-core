@@ -3,7 +3,7 @@
 Plugin Name: BaltazZar Core
 Description: WordPress core system for many plugins.
 Author: BaltazZar™
-Version: 1.0.0
+Version: 1.1.0
 Author URI: http://github.com/baltazzar
 */
 define('BTZ_CORE_PATH',  plugin_dir_path( __FILE__ ));
